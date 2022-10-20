@@ -12,3 +12,4 @@
 
 ![](screenshots/covid-19-india.png)
 # Covid-19-Tracker
+![Screenshot (1342)](https://user-images.githubusercontent.com/81086797/196857947-982d05f0-b130-43e0-b864-6f47f3a08feb.png)
